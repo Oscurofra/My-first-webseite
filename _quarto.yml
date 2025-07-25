@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Second page
+      - href: Summer_School_Padova.qmd
+        text: Summer_school_Padova
 
 format:
   html:
